@@ -20,6 +20,8 @@
       },
       {
         "pagePath": "pages/logs/logs",
+        "iconPath": "static/images/search.png",
+        "selectedIconPath": "static/images/search-actived.png",
         "text": "日志"
       }
     ]
