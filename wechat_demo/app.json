@@ -23,6 +23,12 @@
         "iconPath": "static/images/search.png",
         "selectedIconPath": "static/images/search-actived.png",
         "text": "日志"
+      },
+      {
+        "pagePath": "pages/test/test",
+        "iconPath": "static/images/profile.png",
+        "selectedIconPath": "static/images/profile-actived.png",
+        "text": "测试"
       }
     ]
   },
