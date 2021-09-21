@@ -7,7 +7,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "Weixin",
+    "navigationBarTitleText": "毛小星的主页",
     "navigationBarTextStyle":"black"
   },
   "tabBar": {
