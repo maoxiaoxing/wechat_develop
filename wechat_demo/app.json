@@ -21,20 +21,20 @@
     "list": [
       {
         "pagePath": "pages/qwwather/index",
-        "iconPath": "static/images/profile.png",
-        "selectedIconPath": "static/images/profile-actived.png",
+        "iconPath": "static/images/featured.png",
+        "selectedIconPath": "static/images/featured-actived.png",
         "text": "和风天气"
       },
       {
         "pagePath": "pages/test/test",
-        "iconPath": "static/images/profile.png",
-        "selectedIconPath": "static/images/profile-actived.png",
+        "iconPath": "static/images/search.png",
+        "selectedIconPath": "static/images/search-actived.png",
         "text": "测试"
       },
       {
         "pagePath": "pages/index/index",
-        "iconPath": "static/images/featured.png",
-        "selectedIconPath": "static/images/featured-actived.png",
+        "iconPath": "static/images/profile.png",
+        "selectedIconPath": "static/images/profile-actived.png",
         "text": "用户"
       }
     ]
