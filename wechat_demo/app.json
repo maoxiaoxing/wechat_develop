@@ -2,13 +2,19 @@
   "pages":[
     "pages/index/index",
     "pages/logs/logs",
-    "pages/test/test"
+    "pages/test/test",
+    "pages/qwwather/index"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#2f9de2",
     "navigationBarTitleText": "毛小星的主页",
     "navigationBarTextStyle":"black"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "尝试获取你的位置信息"
+    }
   },
   "tabBar": {
     "list": [
@@ -29,6 +35,12 @@
         "iconPath": "static/images/profile.png",
         "selectedIconPath": "static/images/profile-actived.png",
         "text": "测试"
+      },
+      {
+        "pagePath": "pages/qwwather/index",
+        "iconPath": "static/images/profile.png",
+        "selectedIconPath": "static/images/profile-actived.png",
+        "text": "和风天气"
       }
     ]
   },
